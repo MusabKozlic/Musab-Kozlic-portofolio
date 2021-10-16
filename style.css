@@ -300,11 +300,15 @@ line-height: 220%;
         width: 100%;
     }
     .photo{
-        width: 96%;
+        width: 90%;
+        height: 150px;
     }
     .icons{
         width: 50px;
         height: 40px;
         transition: 0.5s;
+    }
+    .icons:hover{
+        display: contents;
     }
   }
