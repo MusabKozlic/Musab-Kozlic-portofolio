@@ -56,7 +56,7 @@ function showSlides(n) {
 //writing text
 
 var typed = new Typed('.MyName', {
-    strings: ["Mus'ab Kozlić", 'student of' ,'Software Engineenering'],
+    strings: ["Mus'ab Kozlić" ,'Software Engineener', 'Full-stack developer'],
     typeSpeed: 60,
     backSpeed: 30,
     loop: true,

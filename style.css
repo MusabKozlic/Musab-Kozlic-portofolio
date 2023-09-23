@@ -13,12 +13,12 @@
 }
 
 .me img{
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     position: absolute;
     left: 2%;
-    top: 4%;
+    top: 13%;
 }
 
 .me .MyName{
@@ -30,7 +30,7 @@
     text-align: center;
     border-radius: 20px;
     color: #000000;
-    padding-left: 230px;
+    padding-left: 100px;
     font-family: 'Poppins', sans-serif;
     padding-top: 2.5%;
 }
@@ -62,13 +62,14 @@ line-height: 220%;
     background: linear-gradient(to right,#E5E5E5 50%,#FCA311);
     color: #E5E5E5;
     text-align: center;
-    font-size: 180%;
+    font-size: 120%;
     font-family: 'Poppins', sans-serif;
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
     background-size: 200%;
     transition: 0.5s ease-in-out;
+    text-align: left;
 }
 
 .all .about_me a:hover{
@@ -87,11 +88,6 @@ line-height: 220%;
     height: 60px;
     padding-right: 20px;
     transition: 0.5s;
-}
-
-.icons:hover{
-    width: 90px;
-    height: 80px;
 }
 
 .footer{
